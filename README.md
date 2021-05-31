@@ -9,7 +9,7 @@
 * Code: code for gathering, assessing, cleaning, analyzing, and visualizing data, can be found [here](https://github.com/ShaheerKhan200/Investigating-the-No-Show-Trend-in-Medical-Appointments-in-Brazil-in-2016----Data-Analysis-Project/blob/main/Project%202%20Code.ipynb).
 
 ### Result:
-* Report: documentation of analysis and insights into final data can be found [here](https://github.com/ShaheerKhan200/Investigating-the-No-Show-Trend-in-Medical-Appointments-in-Brazil-in-2016----Data-Analysis-Project/blob/main/Project%202%20Report-.html).
+* Report: documentation of analysis and insights into final data can be found [here](https://github.com/ShaheerKhan200/Investigating-the-No-Show-Trend-in-Medical-Appointments-in-Brazil-in-2016----Data-Analysis-Project/blob/main/Project%202%20Report.html).
 
 
 ## Dataset
