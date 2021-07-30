@@ -10,6 +10,7 @@
 
 ### Result:
 * Report: documentation of analysis and insights into final data can be found [here](https://github.com/ShaheerKhan200/Investigating-the-No-Show-Trend-in-Medical-Appointments-in-Brazil-in-2016----Data-Analysis-Project/blob/main/Project%202%20Report.html).
+* Power Bi Visualization: interactive visualization can be found [here](https://app.powerbi.com/view?r=eyJrIjoiODg1NzBhN2UtNTA1NS00NzI2LTlmODQtY2Y0MGE4NjRmMGRhIiwidCI6IjI0YTMwOTBmLTkwMWUtNDY0NC1hMzZmLTBlNTRkZDg0YWQxZCJ9&pageName=ReportSectione1dc9e1bcba07c618461).
 
 
 ## Dataset
